@@ -8,5 +8,15 @@ Phoenix is a full stack framework that lets you easily build fast, concurent and
 
 ---
 
+#### Installation
+
+To get started with with Phoenix, You'll need to install
+
+* Elixir Programming Language
+* Postgres \(for managing the database Phoenix creates\)
+* Hex package manager \(crucial for installing Phoenix\)
+
+and then from there, installing Phoenix is pretty straightforward. The Phoenix Guides provide a great tutorial on how to install the above and then Phoenix. Head over [there](https://hexdocs.pm/phoenix/installation.html "Installation - Phoenix") and then come back.
+
 
 
